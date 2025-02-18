@@ -238,3 +238,7 @@ footer {
 .footer-bottom div a:first-child {
     margin-left: 0px;
 }
+
+.footer-bottom div a:hover {
+    text-decoration: underline;
+}
