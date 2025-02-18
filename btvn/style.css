@@ -246,3 +246,7 @@ footer {
 .search-buttons button:hover {
     border: #5b5b5c 0.8px solid;
 }
+
+.language a:hover {
+    text-decoration: underline;
+}
